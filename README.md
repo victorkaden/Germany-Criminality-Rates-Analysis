@@ -104,9 +104,7 @@ Key visualizations include:
 
 ## Files in the Repository
 - `Presentation.pdf`: A detailed presentation of the project, including visualizations and key insights.
-- `Data/`: Folder containing the raw and cleaned datasets.
 - `Code/`: Scripts used for data analysis and visualization.
-- `Insights/`: Additional insights and notes derived from the analysis.
 
 ## How to View the Presentation
 To view the complete analysis, download or open the `Presentation.pdf` file in this repository.
